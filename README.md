@@ -1,2 +1,2 @@
 # photometry
-photometry documentation Crombag lab
+documenting the photometry system at Crombag lab
